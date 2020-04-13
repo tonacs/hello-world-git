@@ -80,12 +80,28 @@ export  $initHighlight;
 |-|-|-|
 |Tona|Contreras|Flutter
 |Tona|Contreras|Flutter
-|Tona|Contreras|Flutter
-|Tona|Contreras|Flutter
-
 # Citas
 Esto es un texto referente a un texto que pondremos debajo:
 > Esto es un cita.
 
 Esto es otro texto que no es cita
 
+# Líneas divisoras 
+Esto es un texto que será dividido
+
+---
+Esto es otro texto dividido
+
+***
+Esto es otro texto dividido
+
+___
+Esto es otro texto dividido
+
+
+# Saltos de línea
+Esto es nuetro primer párrafo
+
+Esto es nuetro segundo párrafo
+
+Esto es nuetro segundo párrafo
